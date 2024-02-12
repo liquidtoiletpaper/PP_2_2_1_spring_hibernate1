@@ -1,0 +1,11 @@
+
+‹
+java:S1130"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(Á¯¦ş8¿ß¯çÙ1
+G	java:S106$"+Replace this use of System.out by a logger.(ÂŒæí8ÇƒëãÙ1
+L	java:S106%"+Replace this use of System.out by a logger.(‘ßâàûÿÿÿÿ8ÈƒëãÙ1
+L	java:S106&"+Replace this use of System.out by a logger.(²¾ïşøÿÿÿÿ8ÈƒëãÙ1
+L	java:S106'"+Replace this use of System.out by a logger.(©Í­¾ûÿÿÿÿ8ÈƒëãÙ1
+G	java:S106("+Replace this use of System.out by a logger.(…­¢‘8ÉƒëãÙ1
+L	java:S106)"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ÉƒëãÙ1
+L	java:S106+"+Replace this use of System.out by a logger.(¥¦à™úÿÿÿÿ8ÉƒëãÙ1
+G	java:S106,"+Replace this use of System.out by a logger.(ÌïËß8ÉƒëãÙ1
