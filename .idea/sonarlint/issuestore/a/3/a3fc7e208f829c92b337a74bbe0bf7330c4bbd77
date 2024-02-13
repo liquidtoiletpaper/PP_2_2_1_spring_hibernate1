@@ -1,11 +1,12 @@
 
+]
+java:S1854'"@Remove this useless assignment to local variable "notFoundUser".(ºçÈš8Ÿ£‹Ú1
 ‹
-java:S1130"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(Á¯¦ş8¿ß¯çÙ1
-G	java:S106$"+Replace this use of System.out by a logger.(ÂŒæí8ÇƒëãÙ1
-L	java:S106%"+Replace this use of System.out by a logger.(‘ßâàûÿÿÿÿ8ÈƒëãÙ1
-L	java:S106&"+Replace this use of System.out by a logger.(²¾ïşøÿÿÿÿ8ÈƒëãÙ1
-L	java:S106'"+Replace this use of System.out by a logger.(©Í­¾ûÿÿÿÿ8ÈƒëãÙ1
-G	java:S106("+Replace this use of System.out by a logger.(…­¢‘8ÉƒëãÙ1
-L	java:S106)"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ÉƒëãÙ1
-L	java:S106+"+Replace this use of System.out by a logger.(¥¦à™úÿÿÿÿ8ÉƒëãÙ1
-G	java:S106,"+Replace this use of System.out by a logger.(ÌïËß8ÉƒëãÙ1
+java:S1130"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(Á¯¦ş8å·‹Ú1
+L	java:S106!"+Replace this use of System.out by a logger.(ÓÑÔîüÿÿÿÿ8±£‹Ú1
+G	java:S106$"+Replace this use of System.out by a logger.(¾áŞÇ8²£‹Ú1
+N
+java:S1481'"1Remove this unused "notFoundUser" local variable.(ºçÈš8´£‹Ú1
+L	java:S106)"+Replace this use of System.out by a logger.(òï­¿øÿÿÿÿ8µ£‹Ú1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8•å·‹Ú1
