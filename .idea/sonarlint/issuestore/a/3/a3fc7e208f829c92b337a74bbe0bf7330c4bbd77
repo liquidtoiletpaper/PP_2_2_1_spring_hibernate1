@@ -1,12 +1,0 @@
-
-]
-java:S1854'"@Remove this useless assignment to local variable "notFoundUser".(ºçÈš8ŸŽ£‹Ú1
-‹
-java:S1130"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(Á¯¦þ8Žå·‹Ú1
-L	java:S106!"+Replace this use of System.out by a logger.(ÓÑÔîüÿÿÿÿ8±Ž£‹Ú1
-G	java:S106$"+Replace this use of System.out by a logger.(¾áÞÇ8²Ž£‹Ú1
-N
-java:S1481'"1Remove this unused "notFoundUser" local variable.(ºçÈš8´Ž£‹Ú1
-L	java:S106)"+Replace this use of System.out by a logger.(òï­¿øÿÿÿÿ8µŽ£‹Ú1
-M
-java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8•å·‹Ú1
